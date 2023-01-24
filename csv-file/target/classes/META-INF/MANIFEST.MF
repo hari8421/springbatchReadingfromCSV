@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Implementation-Title: Spring Batch Tutorial: Reading Data From a CSV Fil
+ e
+Implementation-Version: 0.1
+Created-By: Maven Integration for Eclipse
+
